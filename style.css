@@ -120,3 +120,8 @@ a:hover {
 text-decoration: underline; /* Unterstreichung bei Hover */
 color: red;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
