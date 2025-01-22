@@ -1,3 +1,2 @@
 # Meine-Website
-Hallo und herzlich Willkommen zu meiner Website. Das hier ist meine erte Website, an der ich je gearbeitet habe. Es ist sogar mein erstes alleiniges Code Projekt.
-Hello and welcome to my website. This is my first website I've ever worked on. It's even my first sole code project
+falls du das hier liest, heißt das, dass die Website gerade ein problem hat und ich daran arbeite. Komm doch in so 2-10 Stunde wieder(Ich hab keine Ahnung, wie lange das dauern wird).
