@@ -24,7 +24,7 @@ window.onload = function () {
   const minHeight = 940; // Mindesthöhe in Pixel
 
   // Überprüfe die Bildschirmgröße
-  if (screen.width < minWidth || screen.height < minHeight) {
+  if (screen.width < minWidth || screen.height < minHeight || /iPhone/.test(navigator.userAgent)) {
     const warning = document.createElement("div");
     warning.style.position = "fixed";
     warning.style.top = "0";
