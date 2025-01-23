@@ -24,7 +24,7 @@ window.onload = function () {
   const minHeight = 940; // Mindesthöhe in Pixel
 
   // Überprüfe die Bildschirmgröße
-  if (window.innerWidth < minWidth || window.innerHeight < minHeight) {
+  if (screen.width < minWidth || screen.height < minHeight) {
     const warning = document.createElement("div");
     warning.style.position = "fixed";
     warning.style.top = "0";
