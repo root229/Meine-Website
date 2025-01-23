@@ -39,3 +39,4 @@ window.onload = function () {
     document.body.prepend(warning);
   }
 };
+console.log("Breite:", window.innerWidth, "Höhe:", window.innerHeight);
