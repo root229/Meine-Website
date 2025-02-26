@@ -2,8 +2,8 @@ window.onload = function () {
   const minWidth = 678; // Mindestbreite in Pixel
   const minHeight = 940; // Mindesthöhe  
 
-alert("Breite: " + window.innerWidth + ", Höhe: " + window.innerHeight);
-  
+ alert("Breite: " + window.innerWidth + ", Höhe: " + window.innerHeight);
+  const minHeight = 940; // Mindesthöhe
   // Überprüfe die Bildschirmgröße
   if (screen.width < minWidth || screen.height < minHeight || /iPhone/.test(navigator.userAgent)) {
     const warning = document.createElement("div");
